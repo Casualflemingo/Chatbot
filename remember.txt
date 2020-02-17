@@ -1,0 +1,5 @@
+#thing you tell it remember are stored in this folder
+
+* i got my new bagpack
+* do not connect to library wifi
+* i kept my book on table
